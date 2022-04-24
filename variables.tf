@@ -15,11 +15,11 @@ variable "dnsprefix" {
 }
 
 variable "sku" {
-  type = string
-  default = "Standard_D2_v2" 
+  type    = string
+  default = "Standard_D2_v2"
 }
 
 variable "env" {
-  type = string
+  type    = string
   default = "production"
 }
