@@ -1,6 +1,6 @@
 aksname = "testazurk8scluster001"
 location = "EAST US"
-rgname = "Test001"
+rgname = "test-terraform"
 dnsprefix = "exampleaks1"
 sku = "standard_b2s"
 env = "test"
